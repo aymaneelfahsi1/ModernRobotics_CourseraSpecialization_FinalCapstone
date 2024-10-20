@@ -1,0 +1,7 @@
+2023-10-19 01:42:23.501366
+Generating Reference Trajectory for best case!
+Reference Trajectory for best case generated!
+Generating csv animation for best case!
+csv animation generated for best Case!
+Writing error data and saving it as plotting for best Case!
+All done for best Case!

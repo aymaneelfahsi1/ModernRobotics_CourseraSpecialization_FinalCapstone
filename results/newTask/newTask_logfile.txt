@@ -1,0 +1,7 @@
+2023-10-19 01:42:49.624215
+Generating Reference Trajectory for newTask case!
+Reference Trajectory for newTask case generated!
+Generating csv animation for newTask case!
+csv animation generated for newTask Case!
+Writing error data and saving it as plotting for newTask Case!
+All done for newTask Case!
