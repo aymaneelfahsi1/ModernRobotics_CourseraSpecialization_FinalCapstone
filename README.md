@@ -1,5 +1,5 @@
 
-# ModernRobotics_CourseraSpecialization_Mobile_Manipulation_Capstone
+# ModernRobotics Coursera Specialization Mobile Manipulation Capstone
 
 This repository contains the source code and documentation for the final capstone project of the Coursera "Modern Robotics" Specialization, "Mobile Manipulation Capstone." This project integrates concepts from previous courses of the specialization, involving trajectory planning and control for a mobile manipulator.
 
