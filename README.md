@@ -26,7 +26,7 @@ To run this project and generate the desired outputs, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aymaneelfahsi1/ModernRobotics_CourseraSpecialization_Mobile_Manipulation_Capstone.git
+   git clone https://github.com/aymaneelfahsi1/ModernRobotics_CourseraSpecialization_FinalCapstone.git
    ```
 2. Navigate to the project directory and install required dependencies:
    ```bash
